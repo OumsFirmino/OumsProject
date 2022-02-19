@@ -1,0 +1,19 @@
+Vcycle va recevoir en entree : la solution x, b ,a, L
+
+L = 1
+
+    inversion()
+    smoothing()
+    rc;
+    si(L<4)
+    Vcycle(x,rc,ac,L+1);
+    L =2
+        inversion()
+          smoothing()
+             rc;
+        si(L<4)
+        Vcycle(x,rc,ac,L+3);
+        L = 3
+
+
+            

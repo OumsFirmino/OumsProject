@@ -1,0 +1,1 @@
+void  LU(double **a, int **ja, int **ia, double **au, int **jau,int **iau,double **al,int **jal, int **ial,int m,int n,int *nnz_tr);

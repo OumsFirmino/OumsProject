@@ -1,0 +1,1 @@
+int add(double **a, double **b,double **w, int n,double alpha);

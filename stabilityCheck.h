@@ -1,0 +1,1 @@
+void stabilityCheck(double **x, double h,double **b,double **a, int **ja, int **ia,int m,int n);

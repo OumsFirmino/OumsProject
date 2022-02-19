@@ -1,0 +1,1 @@
+void RFW(double **ar, int **jr, int **ir, int m, int *nc);

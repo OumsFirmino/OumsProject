@@ -1,0 +1,1 @@
+int Rinjection(double **ar, int **jr, int **ir,int m,int *nc);

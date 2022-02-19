@@ -1,0 +1,1 @@
+void productVS(double **x,double tau, int n);

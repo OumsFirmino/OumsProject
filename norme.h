@@ -1,0 +1,1 @@
+double norme(double **a, int n);

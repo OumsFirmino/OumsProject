@@ -1,0 +1,1 @@
+void copie(double **a, double **b,int n);

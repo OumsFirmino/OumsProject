@@ -1,0 +1,1 @@
+void transposemultiplication(double **ap,int **jp,int **ip, double **vc,double **result, int line_number);

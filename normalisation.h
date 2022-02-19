@@ -1,0 +1,1 @@
+void normalisation(double **a, double **b,int  n);

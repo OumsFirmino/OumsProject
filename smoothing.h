@@ -1,0 +1,1 @@
+void smoothing(double **b, double **xo,double **a, int **ja, int **ia, double **invl,int **jal,int **ial, int n,double tau);

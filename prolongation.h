@@ -1,0 +1,1 @@
+void prolongation(int m,int n,int *nc,double **ap, int **jp, int **ip);

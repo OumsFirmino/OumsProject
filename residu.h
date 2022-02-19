@@ -1,0 +1,1 @@
+void residu(double **b, double**a,int **ja, int **ia, double **x, double **r, int n);
